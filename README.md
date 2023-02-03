@@ -1,24 +1,9 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A blog app using Ruby on Rails with the help of [Rails Guides](https://guides.rubyonrails.org/getting_started.html)
 
-Things you may want to cover:
+The purpose of this app is to familiarize myself with the process of creating a Rails app.
 
-* Ruby version
+### Future improvements
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Deploy the blog app
